@@ -1,0 +1,38 @@
+---
+court: "Supreme Court of the District of Columbia"
+docket: "Equity No. 56633"
+decided: "1935"
+citations: ["2 S.C.D.C. (N.S.) 175"]
+reporter: "scdc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM B. FRENCH, as ancillary receiver for The Blue Ridge Heights Co., Frederick, Maryland, v. CHARLES H. SQUIRE, et al."]
+source_url: "https://static.case.law/scdc-ns/2/cases/0175-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2462108
+---
+
+# French v. Squire
+
+## Majority (WHEAT, C. J.)
+
+FINDINGS OF FACT AND CONCLUSIONS OF LAW
+WHEAT, C. J.
+1. That the plaintiff or plaintiff’s company, The Blue Ridge Heights Company, was the owner of the W. J. Weyles notes dated June 4,1918, payable thirty-seven months after date, on which the balance due as of April 9, 1928, was thirteen hundred ninety ($1390) dollars, with- interest. Said notes were secured by a deed of trust from W. J. Weyles to Wilton J. Lambert and George B. Fraser, dated June 4, 1918, recorded July 29, 1920, in Liber 438, at folio 416 of the Land Records of the District of Columbia, conveying lot 143 in square 2334. The notes were payable to. the Guaranty Trust Company and by it endorsed in blank without recourse.
+2. That the notes were sent by the Blue Ridge Heights Company on April 9, 1928, to the J. Benson Thomas Company for adjustment or foreclosure.
+3. That the J. Benson Thomas Company, through J. Benson Thomas, caused a foreclosure proceeding under the deed of trust, and the property was purchased by one W. C. Benjamin for the sum of one hundred ($100) dollars, the sale taking place in the office of Thomas J. Owen & Son, Auctioneers, of Washington, D. C. There was nothing irregular about the sale, and the property was properly advertised and sold by the trustees pursuant to the terms of the trust.
+4. That at the time the Blue Ridge Heights Company sent the notes- to the J. Benson Thomas Company and/or J. Benson Thomas, Mr. Thomas was a man of high standing and his firm stood high. The Blue Ridge Heights Company had clothed J. Benson Thomas with authority to foreclose or adjust this matter, and what irregularities followed after the time the notes were sent to J. Benson Thomas were due to the fact that Mr. Thomas did not discharge the trust which had been reposed in him by the Blue Ridge Heights Company. Nothing was done by the Blue Ridge Heights Company for two or three years after sending the notes to the J. Benson Thomas Company. In the meantime, Benjamin, at Thomas ’ request, had placed a deed of trust on the property and the notes secured by that deed of trust had been sold to the persons who are named as defendants herein other than the defendants, William J. Lambert and George B. Fraser, who I hold were innocent purchasers, and while the evidence is not as clear as it may be, I think a fair inference from it is that the proceeds of the notes so purchased were used in the improvement of the property, which at the time of the sale was a vacant lot. Interest was paid regularly on these notes until January 27, 1931.
+5. That the defendants were not acquainted with Benjamin and did not know he was acting at the request of Thomas.
+6. Two or three years went by, and Thomas died and his company became bankrupt. Then the people who bought these notes began to wonder what the situation was. Nobody seems to have known anything about it until Mr. Square discovered that the deed of trust securing the Benjamin notes was not on record, and that the record holder of the property was Mr. Weyles. As a result of what Mr. Squire found out, it developed that the property had been sold at auction at the auction room of Thomas Owens & Son,- and Benjamin was the purchaser and Benjamin had executed a deed of trust, which was unrecorded, and issued notes which had been bought by these other people. From that point on their efforts were made and directed towards clearing the title to the property. As a result of that these two trustees executed a deed, which, in my opinion, they had no choice but to do. Mr. Lambert was a very experienced lawyer, and a man of good judgment and good sense. The title company passed the title, and while the title company’s finding is not binding upon the court, yet it indicates a situation that the title company and Mr. Lambert thought that the execution of that deed confirming the sale that had been made two or three years before was proper at that time.
+Then the situation was straightened out and new notes were given in the same proportion that the old notes were held.
+So far as the position of the plaintiff here — that is, the Blue Ridge Heights Company, to whose rights the plaintiff succeeds — I have no hesitation to say that it was through their negligence and misplaced confidence that all of these unfortunate 'circumstances resulted, and that they are in no position now in equity to assert superior title to the people who bought these notes in good faith, and in the belief they were properly issued.
+As a matter of fact the damage, if any, sustained by the plaintiff is very slight. There is no doubt but that the property sold for $100. It was vacant property, and the value which has come to it now is the value which has been put upon it by the building of a house, and, as I say, it may fairly be inferred that it was built with tbe money furnished by the defendants.
+There is no claim made against the present owner, Mrs. Webber. She was an innocent purchaser for value.
+This all goes back to the fundamental proposition that this chain of unfortunate circumstances was due to the fact that the Blue Ridge people put their trust and confidence in a man that proved to be unworthy of it, but who at that time was presumed to be worthy, and for that reason, combined with delay, this chain of circumstances has arisen.
+The method of conducting the sale is not attacked, and whether Thomas had the right to name Benjamin as the purchaser or not I do not know. But he did it, and he was empowered by the Blue Ridge Heights Company to handle that transaction, and it was handled.
+The purchase price of $100 was not paid to the plaintiff. Mr. Fraser has tendered the same to the plaintiff, who did not care to accept it. A tender of the said $100 has again been made in open court to the plaintiff and counsel for the plaintiff stated that they wished the $100 if they could not get the balance of the money.
+CONCLUSIONS OF LAW
+1. That where confronted by the problem which of two innocent persons must bear a loss to impose it on the one who made it possible, and in this case I find that the loss was made possible through The Blue Ridge Heights Company.
+2. That there is no evidence from which to conclude that the defendants conspired to defraud the rights of The Blue Ridge Heights Company.
+3. That there is no evidence from which to conclude that the defendants acted to defraud The Blue Ridge Heights Company of any rights in connection with the subject matter of the suit.
+4. That the defendants, George B. Fraser and Elizabeth G. Lambert, executrix of the estate of Wilton J. Lambert, deceased, tender to the plaintiff, or his counsel of record, the sum of one hundred ($100) dollars, the sale price of lot 143 in square 2334 at the auction sale, and if the plaintiff refuses to accept the same it shall be paid into the registry of this court, and upon the payment thereof the bill of complaint against said defendants, George B. Fraser and Elizabeth G. Lambert, executrix of the estate of Wilton J. Lambert, deceased, shall be dismissed.
