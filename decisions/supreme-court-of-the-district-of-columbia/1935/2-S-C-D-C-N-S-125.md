@@ -2,7 +2,8 @@
 court: "Supreme Court of the District of Columbia"
 docket: "Equity No. 55410"
 decided: "1935"
-citations: ["2 S.C.D.C. (N.S.) 125", "2 S.C.D.C. (N.S.) 55"]
+decided_precision: "year"
+citations: ["2 S.C.D.C. (N.S.) 125"]
 reporter: "scdc-ns"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
