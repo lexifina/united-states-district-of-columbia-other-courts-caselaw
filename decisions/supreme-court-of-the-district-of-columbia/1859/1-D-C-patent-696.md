@@ -1,0 +1,26 @@
+---
+court: "Supreme Court of the District of Columbia"
+decided: "1859-08"
+citations: ["1 D.C. (patent) 696"]
+reporter: "dc-patent"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Before Dunlop, J., District of Columbia,"]
+parties: ["Charles Stearns, Appellant, vs. Asahel Davis, Appellee. Interference."]
+source_url: "https://static.case.law/dc-patent/1/cases/0696-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 660119
+---
+
+# Stearns v. Davis
+
+## Majority (Dunlop, J.)
+
+Dunlop, J.
+It is truly said by the Commissioner of Patents, in his reply of the 8th of August, 1859, to the reasons of appeal of Mr. Stearns, that the object of this appeal is not to decide who invented the lightning-rod, but the question of priority of invention in the rollers for twisting the rod. The whole evidence on both sides is directed to this issue.
+I have carefully examined the proofs, and it seems to me there can be no doubt that the appellant Stearns was the original, first inventor of the twisting rollers exhibited in the models and specifications of appellant and appellee. This appears not only in Stearns’ testimony, but is fully made out by the witnesses examined by Davis himself. I refer to the depositions of Thomas Trask, Thomas Richardson, Henry H. Wilder, Moses C. Crocker and others. But it is said by the Office that the “idea,” the “ suggestion” of Stearns was inchoate, and not reduced to practice; that it was first turned to practical use by the appellee Davis, and therefore the patent ought to be awarded to him. If this was a controversy between two original inventors or discoverers of the same thing, and the second inventor — or the original inventor, posterior in point of time of the two — first reduced it to use, the first original inventor would not, and ought not, to lose the fruits of his genius unless the second inventor could show that the first had forfeited his right by failing to pursue and perfect his invention by the use of reasonable diligence in reducing it to practice and making it available to the public. But this is not the case of two original inventors, each conceiving the same idea, unaided and unassisted. Stearns’ “ suggéstion,” it is conceded on all hands, and is even admitted by Davis himself, was communicated to him (Davis) by Charles Stearns and Moses Marshall, who is unimpeached; and others declare that the suggestion was at once practically applied, and produced the desired result — the twisted, corrugated copper rod. In no sense, therefore, under the patent laws, can Davis be held to be an inventor of the twisting rollers. If Stearns, by want of diligence, has forfeited the fruit of his conception, he has forfeited it to the public and not to the appellee. But I see no reason to impute want of diligence either to Davis or Stearns. The invention was discovered in May or June, 1858, and the models and specifications of both parties presented to the Patent Office — Davis’ on the 14th of December and Stearns’ on the 18th of December, 1858. No want of diligence was imputed by the Office to Davis, and his application was only four days earlier than the application of Stearns.
+It is also assumed by the Office that advertisements and sales of the machine with the twisting rollers by Davis in the year 1858, claiming it as his invention on several occasions with the knowledge of Stearns, and not denied by him, is evidence that Davis was the true inventor or owner; but thisprima-facie presumption (even supposing it to exist) is rebutted by the positive proof of Davis’ own witnesses that Stearns was the inventor, by the absence of all proof that Stearns ever assigned to Davis, and by the affidavit of Davis himself, which (although no evidence against Stearns, it does not lie in Davis’ mouth to gainsay) admits that Stearns was entitled, on certain terms therein set forth, to half the patent right.
+The last objection urged by the Office to the claim of the appellant for a patent is that his improvement in the twisting rollers is substantially different from Davis’, and that there is no conflict. Upon inspection of the models and specifications of the contending parties, the principle of the improvement appears to be the same; the difference is in mere mechanical detail and more elaborate finish in the model of Davis; both machines producing the same corrugated vertical or twisted rod. The contending parties and the witnesses on both sides treat the principle as the same, and the dispute was, and is, who invented it. The Office has made the same affirmation in declaring the interference.
+Upon the whole, I am of opinion that the Honorable Commissioner of Patents erred in awarding a patent to Asahel Davis for the improvement in the twisting rollers referred to in his decision of the 16th of June, 1859, and that his judgment be, and the same is hereby, reversed, I am also of opinion that a patent ought to issue to Charles Stearns for said improvement, on a proper application- made by him limiting his application to the improvement in the twisting rollers, in combination with the corrugating rollers, producing the corrugated twisted copper rod.
+E. W. Scott, for the appellant.
+Murin & Co., for the appellee.
