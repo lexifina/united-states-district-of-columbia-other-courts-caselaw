@@ -1,0 +1,24 @@
+---
+court: "Supreme Court of the District of Columbia"
+decided: "1857-03"
+citations: ["1 D.C. (patent) 519"]
+reporter: "dc-patent"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["(Before Merrick, J., District of Columbia,"]
+parties: ["In Re George S. Bishop. Appeal from refusal to grant Patent."]
+source_url: "https://static.case.law/dc-patent/1/cases/0519-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 660177
+---
+
+# In re Bishop
+
+## Majority (Merrick, J.)
+
+Merrick, J.
+This case having been appealed to me, one of the assistant judges of the United States Circuit Court for the District of Columbia, the 20th day of'March, at 10 o’clock A. M.,was fixed as the time, and the chancery room at the City Hall as the place, of hearing said appeal; at which time and place the applicant, by his attorney in fact, J. H. Merrill, appeared, and further time was given him — until Tuesday, 24th of March — -when the applicant and his said counsel appeared at my chambers, and were heard upon their whole case, and in explanation of the models and drawings by them presented, as well as upon those relied upon and exhibited by the Office. The whole case has been duly considered, and every paper filed in it has been carefully read by me and the models and drawings examined.
+The specification claims as the special point of novelty in the proposed arrangement of machinery “the placing within the bumper, or securing thereto, a sliding block, the same having formed in its end a V-shaped chamber for the purpose of guiding, centering, and holding the links in a horizontal position. ’ ’
+Upon comparing the claim with that embraced by the patent of Warren D. Hatch, of October 2d, 1849, and the rejected application of James McCullum, filed January 23d, 1854, it is apparent that all the forms of machines are substantially present in their machines, which are exhibited by the applicant; nor is there any new effect produced by his invention. The sliding block is common to all the machines. In the two cases of Hatch and McCullum it has superadded a combination of spiral spring to operate its automatic movement. The party does not claim that dispensation with automatic movement is any part of his improvement. It would certainly not in a case like this be a novelty or an invention. The novelty is in the production, not the absence of automatic force. Now, the automatic principle being out of view, we find the sliding block common to all the cases, and operating simply to hold up the coupling-pin when adjusted, and to let it drop into the link when removed by propulsion from the end of the link already attached to another car, which is to be coupled to the one having either of the machines in question attached to it. The claimant has urged in his arguments that a certain vertical motion which his block is capable of (being much smaller in its vertical dimension than the space inclosing it) is an element of patentable novelty and utility; but whatever his argument, no such claim was made before the Commissioner by his specification, and its utility can have little influence in determining the question of novelty of those forms and effects on'which he relies. The claimant further relies upon the V-shaped chamber of the block as novel. Its whole novelty, of course, consists in its adaptation as a guide of the link to its place where it must receive the falling coupling-pin. The wedge-like flaring or V- shape of-the sliding block is present in Hatch’s machine, differing from the present in being applied vertically instead of horizontally ; but the principle of applying the sloping surface to guide the impinging body to its proper place is manifest; and if there were any special novelty in applying such a guiding surface laterally instead of vertically, that also is anticipated by the machine of McCullum, not, indeed, upon the block itself, but to the outer adit — the sides of the opening in the bumper head. McCullum, in his specification, calls for the adit opening to be “flared,” as he terms it, both vertically and horizontally, for the purpose of guiding the link. Now, the V- shape in the block is the same shape as the flared or wedge shape on the bumper of McCullum, and its transfer or prolongation into the block produces no new effect, nor calls for the exercise of any inventive faculty; it is a familiar device used to produce an obviously familiar result.
+Finding in the case and the reasons of appeal no ground to impeach the correctness of the conclusions which have been reached by the Acting Commissioner, his decision rejecting the-application for a patent, as set forth in the specification, is affirmed-; and this, my opinion, is accordingly hereby certified to the- Commissioner of Patents this 31st day of March, A. D. 1857.
+J. H. Merrill, for the appellant.
