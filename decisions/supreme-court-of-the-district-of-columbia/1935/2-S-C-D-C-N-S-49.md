@@ -1,0 +1,29 @@
+---
+court: "Supreme Court of the District of Columbia"
+docket: "Equity No. 55684"
+decided: "1935"
+citations: ["2 S.C.D.C. (N.S.) 49"]
+reporter: "scdc-ns"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CORNING GLASS WORKS v. THOMAS E. ROBERTSON, Commissioner of Patents"]
+source_url: "https://static.case.law/scdc-ns/2/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2461610
+cites_cases: ["11 Wall. 516"]
+---
+
+# Corning Glass Works v. Robertson
+
+## Majority (COX, J.)
+
+COX, J.
+The plaintiff seeks a patent under Section 4915 of the Revised Statutes of the United States (35 U. S. C. Sec. 63), for an improvement in glass making implements; specifically on claims 6 and 7 set out in the application denied by the Patent Office. These claims relate to coating or electroplating with chromium certain glass making tools, such as blowers, made of oxidizable metals, and molds made of heat conducting metals.
+The answer of the Commissioner of Patents relies upon certain prior patents and publications as anticipating the invention — chiefly upon British patent No. 172,610, issued September 21,1922, .to Fabrieken, and a German publication by Pfanhauser in Chemiker-Zeitung, July 7,1923. The case has been heard de novo, on evidence including that previously submitted to the Patent Office and additional evidence produced on the hearing.
+Smith, the inventor and assignor of the application, is a chemical engineer in charge of an important department of the Corning Glass Works with wide experience in the art of glass making and in the use of chromium alloys or stainless steel in the art. Chromium plating is not new. Chromium alloys had been previously used in'the glass making art. It had been found that chromium alloys “stick” to molten glass at high temperatures to such an extent as to limit the usefulness of tools made of these alloys for certain work. A patent was issued to Holst (No. 1,947,417) apparently based on this property of glass “sticking” to chromium alloys. Smith discovered that this ‘ ‘ sticking ’ ’ quality was much less pronounced with a tool or mold plated with chromium than with a tool or mold made of chromium alloy. This new or different quality of the chromium plated tool was not indicated by Smith’s experience in the art or his experience in the use of chromium alloys but rather was surprising to him as well as to others skilled in the art. In this connection attention has been called to an article by the German writer Gehlhoff, published several years after Smith’s discovery, in the Society of Glass Technology Journal, Volume XII, 1928, pp. 145, 157, referring to this surprising quality of chromium plating.
+The use of chromium plating on such implements as blowers and molds and on the plungers or blow heads on automatic machines for producing electric light bulbs, showed numerous advantages; among them — glass can be worked at higher temperatures with chromium plated implements than with implements made of chromium alloys or stainless steel; when a chromium plated blower is used the “cullet” or glass which cools on the blower can be more easily stripped off without injury to the blower, and the “cullet” is also free from scale or iron oxide, so that it can be remelted and used again; and by the use of chromium plated molds articles with optical surfaces may be so pressed as to require no further finishing operation. The invention appears to have come into extensive commercial use. In the Corning Glass Works, it is shown, about six hundred implements such as blow irons and molds are plated weekly; and other factories have adopted chromium plating for molds.
+The only point in dispute is whether the claims of the plaintiff are anticipated by the British patent of 1922, to Fabrieken, and the German publication by Pfanhauser of 1923,
+The British patent of 1922, to Fabrieken, relates to the transfer of molten glass in the course of manufacture. The patent points out that such transfer was usually made through troughs of refractory material such as fire clay, from the use of which certain disadvantages arose, and the patent teaches how the transfer may be better accomplished by using, instead of the usual troughs, conveyors surfaced “wholly or partly of metals such as chromium, or of metallic alloys such as chromium or aluminum with iron, cobalt or nickel, the metals or alloys being characterized by having higher melting points, in not evolving gas when heated, and in giving rise to a . . . coating of . . . oxides . . . insoluble in the molten glass. ’ ’ He recommends in practice, however, alloys of chromium. The German publication recommends chromium plating for many purposes; among others — for type-matrices, and, because of its great resistance to heat, for burners and furnace parts coming into contact with fire or gas. The article makes no recommendation of the use of chromium plating in the glass making art.
+It is not clear that either the British patent or the German publication teaches that chromium plating would solve the special problem which the evidence shows the plaintiff had to deal with in connection with glass making implements. See Seymour v. Osborne, 11 Wall. 516, 555; Scovill Mfg. Co. v. Balistocky, 48 Fed. (2d) 875, 879.
+It may be noted that the British patent office, on June 25, 1926, about four years after the patent to Fabrieken, issued patent No. 254,330; and the German patent office, on June 26, 1925, over two years after the Pfanhauser publication, issued patent No. 473,458, — both covering the invention claimed here by the plaintiff.
+The evidence is convincing that Smith taught something new and of practical and substantial advantage in the art. Patent should be allowed on claims 6 and 7.
